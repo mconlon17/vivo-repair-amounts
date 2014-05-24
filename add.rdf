@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+    xmlns:rdf     = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs    = "http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:xsd     = "http://www.w3.org/2001/XMLSchema#"
+    xmlns:owl     = "http://www.w3.org/2002/07/owl#"
+    xmlns:swrl    = "http://www.w3.org/2003/11/swrl#"
+    xmlns:swrlb   = "http://www.w3.org/2003/11/swrlb#"
+    xmlns:vitro1  = "http://vitro.mannlib.cornell.edu/ns/vitro/0.7#"
+    xmlns:bibo    = "http://purl.org/ontology/bibo/"
+    xmlns:c4o     = "http://purl.org/spar/c4o/"
+    xmlns:dcelem  = "http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms = "http://purl.org/dc/terms/"
+    xmlns:event   = "http://purl.org/NET/c4dm/event.owl#"
+    xmlns:foaf    = "http://xmlns.com/foaf/0.1/"
+    xmlns:fabio   = "http://purl.org/spar/fabio/"
+    xmlns:geo     = "http://aims.fao.org/aos/geopolitical.owl#"
+    xmlns:pvs     = "http://vivoweb.org/ontology/provenance-support#"
+    xmlns:ero     = "http://purl.obolibrary.org/obo/"
+    xmlns:scires  = "http://vivoweb.org/ontology/scientific-research#"
+    xmlns:skos    = "http://www.w3.org/2004/02/skos/core#"
+    xmlns:ufVivo  = "http://vivo.ufl.edu/ontology/vivo-ufl/"
+    xmlns:vitro2  = "http://vitro.mannlib.cornell.edu/ns/vitro/public#"
+    xmlns:core    = "http://vivoweb.org/ontology/core#"
+    xmlns:vivo    = "http://vivoweb.org/ontology/core#">
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n65345">
+        <vivo:totalAwardAmount>27086.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n13385">
+        <vivo:totalAwardAmount>10000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n33229">
+        <vivo:totalAwardAmount>255000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n49121">
+        <vivo:totalAwardAmount>10000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n45604">
+        <vivo:totalAwardAmount>125</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n30057">
+        <vivo:totalAwardAmount>283305</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60005">
+        <vivo:totalAwardAmount>200</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n104637">
+        <vivo:totalAwardAmount>4000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n16693">
+        <vivo:totalAwardAmount>500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n19409">
+        <vivo:totalAwardAmount>20043</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n27878">
+        <vivo:totalAwardAmount>298375.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n17630">
+        <vivo:totalAwardAmount>3000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n22813">
+        <vivo:totalAwardAmount>44000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n105595">
+        <vivo:totalAwardAmount>40612.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n107086">
+        <vivo:totalAwardAmount>30000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n59648">
+        <vivo:totalAwardAmount>392801</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n20257">
+        <vivo:totalAwardAmount>39454</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n110154">
+        <vivo:totalAwardAmount>30625.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n34243">
+        <vivo:totalAwardAmount>36120</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n381587">
+        <vivo:totalAwardAmount>26697.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8893">
+        <vivo:totalAwardAmount>29492</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n17987">
+        <vivo:totalAwardAmount>118000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n49240">
+        <vivo:totalAwardAmount>219773.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60083">
+        <vivo:totalAwardAmount>20787.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n65264">
+        <vivo:totalAwardAmount>35000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n49953">
+        <vivo:totalAwardAmount>15000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n20451">
+        <vivo:totalAwardAmount>262350.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n28716">
+        <vivo:totalAwardAmount>912500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23922">
+        <vivo:totalAwardAmount>85158.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n220859">
+        <vivo:totalAwardAmount>17822</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n108296">
+        <vivo:totalAwardAmount>39870.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n17864">
+        <vivo:totalAwardAmount>49500.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n42774">
+        <vivo:totalAwardAmount>1546896.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n46904">
+        <vivo:totalAwardAmount>39000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n54896">
+        <vivo:totalAwardAmount>25000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25483">
+        <vivo:totalAwardAmount>155739</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n128208">
+        <vivo:totalAwardAmount>50000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n94369">
+        <vivo:totalAwardAmount>226000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n44402">
+        <vivo:totalAwardAmount>165500.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n139793">
+        <vivo:totalAwardAmount>9500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n12522">
+        <vivo:totalAwardAmount>8867</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n24987">
+        <vivo:totalAwardAmount>120000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n83803">
+        <vivo:totalAwardAmount>50400.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n146320">
+        <vivo:totalAwardAmount>38683</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n58122">
+        <vivo:totalAwardAmount>261182.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n145539">
+        <vivo:totalAwardAmount>54066.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n26971">
+        <vivo:totalAwardAmount>125043.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50663">
+        <vivo:totalAwardAmount>125000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n19302">
+        <vivo:totalAwardAmount>5000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n40274">
+        <vivo:totalAwardAmount>26523</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n119565">
+        <vivo:totalAwardAmount>6100.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n69179">
+        <vivo:totalAwardAmount>144000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n20388">
+        <vivo:totalAwardAmount>107015.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n108901">
+        <vivo:totalAwardAmount>206468</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n103816">
+        <vivo:totalAwardAmount>99992.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50171">
+        <vivo:totalAwardAmount>162012</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n27675">
+        <vivo:totalAwardAmount>67072.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n89606">
+        <vivo:totalAwardAmount>50000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n97927">
+        <vivo:totalAwardAmount>140520</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n56000">
+        <vivo:totalAwardAmount>5588.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23192">
+        <vivo:totalAwardAmount>12118.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n99237">
+        <vivo:totalAwardAmount>6500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n58523">
+        <vivo:totalAwardAmount>2382.13</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n64811">
+        <vivo:totalAwardAmount>344679</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n22321">
+        <vivo:totalAwardAmount>13800.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25365">
+        <vivo:totalAwardAmount>258507.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n22513">
+        <vivo:totalAwardAmount>45000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n96775">
+        <vivo:totalAwardAmount>60000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n170274">
+        <vivo:totalAwardAmount>54796.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11592">
+        <vivo:totalAwardAmount>27300.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n102887">
+        <vivo:totalAwardAmount>213591</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n24661">
+        <vivo:totalAwardAmount>37148.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n45774">
+        <vivo:totalAwardAmount>8500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n58907">
+        <vivo:totalAwardAmount>31129.92</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n86223">
+        <vivo:totalAwardAmount>343000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n103000">
+        <vivo:totalAwardAmount>153062.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n84813">
+        <vivo:totalAwardAmount>238000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n24250">
+        <vivo:totalAwardAmount>8503.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n223460">
+        <vivo:totalAwardAmount>87450.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n79256">
+        <vivo:totalAwardAmount>27660.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n29397">
+        <vivo:totalAwardAmount>29963.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n20543">
+        <vivo:totalAwardAmount>10000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41269">
+        <vivo:totalAwardAmount>88125.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n8828">
+        <vivo:totalAwardAmount>10000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n51189">
+        <vivo:totalAwardAmount>12000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n48525">
+        <vivo:totalAwardAmount>10464.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n44180">
+        <vivo:totalAwardAmount>7183.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23098">
+        <vivo:totalAwardAmount>39000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n16642">
+        <vivo:totalAwardAmount>104278</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n43957">
+        <vivo:totalAwardAmount>400000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n12378">
+        <vivo:totalAwardAmount>113500.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23976">
+        <vivo:totalAwardAmount>130000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n130190">
+        <vivo:totalAwardAmount>2045019</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n63134">
+        <vivo:totalAwardAmount>250000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n57212">
+        <vivo:totalAwardAmount>13000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n45075">
+        <vivo:totalAwardAmount>60101.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n58284">
+        <vivo:totalAwardAmount>2300.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n114860">
+        <vivo:totalAwardAmount>16500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9115">
+        <vivo:totalAwardAmount>8000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n45508">
+        <vivo:totalAwardAmount>350000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n18521">
+        <vivo:totalAwardAmount>15577.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n19690">
+        <vivo:totalAwardAmount>6000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n79358">
+        <vivo:totalAwardAmount>808656.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n57356">
+        <vivo:totalAwardAmount>29000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n81546">
+        <vivo:totalAwardAmount>25153.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n143006">
+        <vivo:totalAwardAmount>133314.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n101429">
+        <vivo:totalAwardAmount>93400</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n19814">
+        <vivo:totalAwardAmount>181000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n48994">
+        <vivo:totalAwardAmount>839400</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n59503">
+        <vivo:totalAwardAmount>2910000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n144878">
+        <vivo:totalAwardAmount>336620</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35160">
+        <vivo:totalAwardAmount>29975.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n32797">
+        <vivo:totalAwardAmount>85000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n62506">
+        <vivo:totalAwardAmount>58179.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n40405">
+        <vivo:totalAwardAmount>99466</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n19612">
+        <vivo:totalAwardAmount>60000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60806">
+        <vivo:totalAwardAmount>222998.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n59210">
+        <vivo:totalAwardAmount>50000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61046">
+        <vivo:totalAwardAmount>10000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n59026">
+        <vivo:totalAwardAmount>13800.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n31770">
+        <vivo:totalAwardAmount>25616.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n154196">
+        <vivo:totalAwardAmount>10000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n68604">
+        <vivo:totalAwardAmount>32000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n53084">
+        <vivo:totalAwardAmount>161959</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61747">
+        <vivo:totalAwardAmount>24676</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35906">
+        <vivo:totalAwardAmount>3200</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38755">
+        <vivo:totalAwardAmount>230896</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n48518">
+        <vivo:totalAwardAmount>18413.58</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n205049">
+        <vivo:totalAwardAmount>20000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n39074">
+        <vivo:totalAwardAmount>25939.58</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n23047">
+        <vivo:totalAwardAmount>20790.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n28738">
+        <vivo:totalAwardAmount>625</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35764">
+        <vivo:totalAwardAmount>240594</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25277">
+        <vivo:totalAwardAmount>15555.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n71483">
+        <vivo:totalAwardAmount>339999.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61851">
+        <vivo:totalAwardAmount>150000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n39403">
+        <vivo:totalAwardAmount>23143.17</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n49383">
+        <vivo:totalAwardAmount>5933.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n24401">
+        <vivo:totalAwardAmount>978879</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n84551">
+        <vivo:totalAwardAmount>310814.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n26655">
+        <vivo:totalAwardAmount>182869</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n84947">
+        <vivo:totalAwardAmount>20000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n10785">
+        <vivo:totalAwardAmount>39795.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n26032">
+        <vivo:totalAwardAmount>75000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n124827">
+        <vivo:totalAwardAmount>40695</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n64190">
+        <vivo:totalAwardAmount>10500.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n26774">
+        <vivo:totalAwardAmount>262350.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n203315">
+        <vivo:totalAwardAmount>9997.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9595">
+        <vivo:totalAwardAmount>30190.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n27555">
+        <vivo:totalAwardAmount>84000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n128180">
+        <vivo:totalAwardAmount>15050.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n27610">
+        <vivo:totalAwardAmount>46193.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n44039">
+        <vivo:totalAwardAmount>47965.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n21756">
+        <vivo:totalAwardAmount>98960</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n130842">
+        <vivo:totalAwardAmount>1102456</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n130590">
+        <vivo:totalAwardAmount>29150.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n24818">
+        <vivo:totalAwardAmount>39000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n66457">
+        <vivo:totalAwardAmount>18800.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n65339">
+        <vivo:totalAwardAmount>255467.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n115820">
+        <vivo:totalAwardAmount>55000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n92564">
+        <vivo:totalAwardAmount>34997.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n28609">
+        <vivo:totalAwardAmount>14900.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n55937">
+        <vivo:totalAwardAmount>40139.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n62986">
+        <vivo:totalAwardAmount>237664</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87741">
+        <vivo:totalAwardAmount>33410.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n80243">
+        <vivo:totalAwardAmount>5000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n31528">
+        <vivo:totalAwardAmount>393943.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n238138">
+        <vivo:totalAwardAmount>1100000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n122996">
+        <vivo:totalAwardAmount>236600.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n27696">
+        <vivo:totalAwardAmount>20000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n81410">
+        <vivo:totalAwardAmount>35000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9498">
+        <vivo:totalAwardAmount>5000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n106036">
+        <vivo:totalAwardAmount>10000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n62954">
+        <vivo:totalAwardAmount>76000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n20248">
+        <vivo:totalAwardAmount>627301.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n17781">
+        <vivo:totalAwardAmount>338453.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n39009">
+        <vivo:totalAwardAmount>93128.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n47145">
+        <vivo:totalAwardAmount>745824.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n32074">
+        <vivo:totalAwardAmount>1992541</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n174242">
+        <vivo:totalAwardAmount>17000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n52255">
+        <vivo:totalAwardAmount>17600</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n124515">
+        <vivo:totalAwardAmount>9347.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n57026">
+        <vivo:totalAwardAmount>337132</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n20481">
+        <vivo:totalAwardAmount>342623</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n80369">
+        <vivo:totalAwardAmount>387152</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n130622">
+        <vivo:totalAwardAmount>62988.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25497">
+        <vivo:totalAwardAmount>24413.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n35970">
+        <vivo:totalAwardAmount>30500.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n17411">
+        <vivo:totalAwardAmount>70000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60607">
+        <vivo:totalAwardAmount>22000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n45801">
+        <vivo:totalAwardAmount>243854</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n59135">
+        <vivo:totalAwardAmount>156170.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n100890">
+        <vivo:totalAwardAmount>30000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n131030">
+        <vivo:totalAwardAmount>41999.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n92022">
+        <vivo:totalAwardAmount>33363.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n56301">
+        <vivo:totalAwardAmount>2102.82</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n39081">
+        <vivo:totalAwardAmount>30500.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38933">
+        <vivo:totalAwardAmount>8804.04</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n14913">
+        <vivo:totalAwardAmount>17400</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n24998">
+        <vivo:totalAwardAmount>294024.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n16663">
+        <vivo:totalAwardAmount>8145.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n32562">
+        <vivo:totalAwardAmount>84837.60</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n109172">
+        <vivo:totalAwardAmount>15000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n69677">
+        <vivo:totalAwardAmount>827000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n13871">
+        <vivo:totalAwardAmount>63200.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n63213">
+        <vivo:totalAwardAmount>54121.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n40314">
+        <vivo:totalAwardAmount>30000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n110537">
+        <vivo:totalAwardAmount>287479.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n168107">
+        <vivo:totalAwardAmount>168608.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n75749">
+        <vivo:totalAwardAmount>1500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n105233">
+        <vivo:totalAwardAmount>5412.88</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n43503">
+        <vivo:totalAwardAmount>30000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n190616">
+        <vivo:totalAwardAmount>26000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n127475">
+        <vivo:totalAwardAmount>61485</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n117051">
+        <vivo:totalAwardAmount>60000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n21912">
+        <vivo:totalAwardAmount>47014.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n12756">
+        <vivo:totalAwardAmount>54950.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n103635">
+        <vivo:totalAwardAmount>199660</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n44870">
+        <vivo:totalAwardAmount>1676480.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50980">
+        <vivo:totalAwardAmount>40000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n34732">
+        <vivo:totalAwardAmount>1610000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n46724">
+        <vivo:totalAwardAmount>3000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n18877">
+        <vivo:totalAwardAmount>205000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n14544">
+        <vivo:totalAwardAmount>2000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n32577">
+        <vivo:totalAwardAmount>9900.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n88901">
+        <vivo:totalAwardAmount>144299.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n34508">
+        <vivo:totalAwardAmount>1353864.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60165">
+        <vivo:totalAwardAmount>3000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n43796">
+        <vivo:totalAwardAmount>42625</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n84804">
+        <vivo:totalAwardAmount>25000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n110195">
+        <vivo:totalAwardAmount>9985.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n87335">
+        <vivo:totalAwardAmount>637742.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38905">
+        <vivo:totalAwardAmount>202125.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n36187">
+        <vivo:totalAwardAmount>13561.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n18007">
+        <vivo:totalAwardAmount>17796</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n236626">
+        <vivo:totalAwardAmount>250000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n80169">
+        <vivo:totalAwardAmount>210981</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n77479">
+        <vivo:totalAwardAmount>79480</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38587">
+        <vivo:totalAwardAmount>3000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n26934">
+        <vivo:totalAwardAmount>52000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n83491">
+        <vivo:totalAwardAmount>30000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n58299">
+        <vivo:totalAwardAmount>9000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n92808">
+        <vivo:totalAwardAmount>11500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n44440">
+        <vivo:totalAwardAmount>20512.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n47939">
+        <vivo:totalAwardAmount>34300.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n39632">
+        <vivo:totalAwardAmount>42000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n57366">
+        <vivo:totalAwardAmount>759000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n75096">
+        <vivo:totalAwardAmount>48359.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n46421">
+        <vivo:totalAwardAmount>8804.04</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n109782">
+        <vivo:totalAwardAmount>2500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n97712">
+        <vivo:totalAwardAmount>100000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n24690">
+        <vivo:totalAwardAmount>3000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n10172">
+        <vivo:totalAwardAmount>35000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n26223">
+        <vivo:totalAwardAmount>77777.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n41534">
+        <vivo:totalAwardAmount>1199876</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n203854">
+        <vivo:totalAwardAmount>2280.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n47633">
+        <vivo:totalAwardAmount>54722</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n54859">
+        <vivo:totalAwardAmount>122378.09</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n22405">
+        <vivo:totalAwardAmount>190177</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n17938">
+        <vivo:totalAwardAmount>48380.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n22575">
+        <vivo:totalAwardAmount>25000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n47441">
+        <vivo:totalAwardAmount>99868.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n31540">
+        <vivo:totalAwardAmount>120000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n215719">
+        <vivo:totalAwardAmount>73000000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n79007">
+        <vivo:totalAwardAmount>144131</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n22135">
+        <vivo:totalAwardAmount>9513.25</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n256439">
+        <vivo:totalAwardAmount>130000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n30946">
+        <vivo:totalAwardAmount>9000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n999001">
+        <vivo:totalAwardAmount>531135.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n51063">
+        <vivo:totalAwardAmount>100000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n40813">
+        <vivo:totalAwardAmount>297107</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n62848">
+        <vivo:totalAwardAmount>435000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n62591">
+        <vivo:totalAwardAmount>280000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n114282">
+        <vivo:totalAwardAmount>21200.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n30750">
+        <vivo:totalAwardAmount>69864.50</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38744">
+        <vivo:totalAwardAmount>500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n85689">
+        <vivo:totalAwardAmount>8570.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n102631">
+        <vivo:totalAwardAmount>62438.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n29960">
+        <vivo:totalAwardAmount>38300</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n19768">
+        <vivo:totalAwardAmount>243861</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n32257">
+        <vivo:totalAwardAmount>1030000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n77256">
+        <vivo:totalAwardAmount>200000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n42767">
+        <vivo:totalAwardAmount>66103.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n31195">
+        <vivo:totalAwardAmount>3000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n54749">
+        <vivo:totalAwardAmount>11040.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n19066">
+        <vivo:totalAwardAmount>10000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n83608">
+        <vivo:totalAwardAmount>89314.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38046">
+        <vivo:totalAwardAmount>200</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n18070">
+        <vivo:totalAwardAmount>109331.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n64958">
+        <vivo:totalAwardAmount>72890.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n21844">
+        <vivo:totalAwardAmount>64030.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n52615">
+        <vivo:totalAwardAmount>163333</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n21062">
+        <vivo:totalAwardAmount>5600.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n25207">
+        <vivo:totalAwardAmount>49959.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n106169">
+        <vivo:totalAwardAmount>9000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n48974">
+        <vivo:totalAwardAmount>94000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50856">
+        <vivo:totalAwardAmount>499946.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n188689">
+        <vivo:totalAwardAmount>9500.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n129474">
+        <vivo:totalAwardAmount> 1500000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n44028">
+        <vivo:totalAwardAmount>28365.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n82985">
+        <vivo:totalAwardAmount>3889000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n31119">
+        <vivo:totalAwardAmount>500000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n24477">
+        <vivo:totalAwardAmount>12508</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n21970">
+        <vivo:totalAwardAmount>25000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n9150">
+        <vivo:totalAwardAmount>13450.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n42592">
+        <vivo:totalAwardAmount>450000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n18564">
+        <vivo:totalAwardAmount>84208.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n39689">
+        <vivo:totalAwardAmount>249917</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60541">
+        <vivo:totalAwardAmount>700000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n33805">
+        <vivo:totalAwardAmount>10625.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38858">
+        <vivo:totalAwardAmount>112445.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n240693">
+        <vivo:totalAwardAmount>1800</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n59065">
+        <vivo:totalAwardAmount>1477</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n42657">
+        <vivo:totalAwardAmount>500000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n19269">
+        <vivo:totalAwardAmount>700</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38135">
+        <vivo:totalAwardAmount>2666.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n130696">
+        <vivo:totalAwardAmount>9867.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61496">
+        <vivo:totalAwardAmount>119986</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n102464">
+        <vivo:totalAwardAmount>3300000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n40325">
+        <vivo:totalAwardAmount>33500.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61001">
+        <vivo:totalAwardAmount>129000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n33058">
+        <vivo:totalAwardAmount>206138.73</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n16912">
+        <vivo:totalAwardAmount>2850.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n44782">
+        <vivo:totalAwardAmount>22500.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n63141">
+        <vivo:totalAwardAmount>30000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50024">
+        <vivo:totalAwardAmount>120000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n60433">
+        <vivo:totalAwardAmount>20000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n118042">
+        <vivo:totalAwardAmount>376844</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n228601">
+        <vivo:totalAwardAmount>27000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n10211">
+        <vivo:totalAwardAmount>87674</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n20046">
+        <vivo:totalAwardAmount>275000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n61628">
+        <vivo:totalAwardAmount>15000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n39234">
+        <vivo:totalAwardAmount>27245.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n15971">
+        <vivo:totalAwardAmount>2478380</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n56812">
+        <vivo:totalAwardAmount>20040</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n51452">
+        <vivo:totalAwardAmount>14000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n53576">
+        <vivo:totalAwardAmount>142205.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n62675">
+        <vivo:totalAwardAmount>73376.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n83128">
+        <vivo:totalAwardAmount>1311108</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n24441">
+        <vivo:totalAwardAmount>14010.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n22467">
+        <vivo:totalAwardAmount>39000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n105016">
+        <vivo:totalAwardAmount>26360.92</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n62006">
+        <vivo:totalAwardAmount>31012.50</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38238">
+        <vivo:totalAwardAmount>75000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n21500">
+        <vivo:totalAwardAmount>26187.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n49584">
+        <vivo:totalAwardAmount>379480.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n42179">
+        <vivo:totalAwardAmount>130261.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n54875">
+        <vivo:totalAwardAmount>1287000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n54871">
+        <vivo:totalAwardAmount>387696</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n48398">
+        <vivo:totalAwardAmount>8000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n51557">
+        <vivo:totalAwardAmount>19012.77</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n48083">
+        <vivo:totalAwardAmount>5000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n50522">
+        <vivo:totalAwardAmount>91820.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n53199">
+        <vivo:totalAwardAmount>40000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n75559">
+        <vivo:totalAwardAmount>100</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n36012">
+        <vivo:totalAwardAmount>43625.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n55011">
+        <vivo:totalAwardAmount>1774.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n21462">
+        <vivo:totalAwardAmount>368330.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n76142">
+        <vivo:totalAwardAmount>447323.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n83740">
+        <vivo:totalAwardAmount>230896</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n40877">
+        <vivo:totalAwardAmount>750</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n63447">
+        <vivo:totalAwardAmount>52665</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n64873">
+        <vivo:totalAwardAmount>38640.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n64318">
+        <vivo:totalAwardAmount>49919.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n64317">
+        <vivo:totalAwardAmount>30776.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n59176">
+        <vivo:totalAwardAmount>200253.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n42238">
+        <vivo:totalAwardAmount>234000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n84674">
+        <vivo:totalAwardAmount>44000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n209770">
+        <vivo:totalAwardAmount>21525.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n94649">
+        <vivo:totalAwardAmount>8561.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n10545">
+        <vivo:totalAwardAmount>9000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n118730">
+        <vivo:totalAwardAmount>101652</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n44368">
+        <vivo:totalAwardAmount>68026</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n31074">
+        <vivo:totalAwardAmount>105000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n38642">
+        <vivo:totalAwardAmount>30467.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n45117">
+        <vivo:totalAwardAmount>437360.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n45114">
+        <vivo:totalAwardAmount>153333.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n44642">
+        <vivo:totalAwardAmount>40000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n59302">
+        <vivo:totalAwardAmount>178598</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n116829">
+        <vivo:totalAwardAmount>4000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n55686">
+        <vivo:totalAwardAmount>517316</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n26292">
+        <vivo:totalAwardAmount>3000000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n199917">
+        <vivo:totalAwardAmount>1050.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n51065">
+        <vivo:totalAwardAmount>450000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n57236">
+        <vivo:totalAwardAmount>1504263</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n30152">
+        <vivo:totalAwardAmount>150000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n203519">
+        <vivo:totalAwardAmount>16841.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n62050">
+        <vivo:totalAwardAmount>12000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n125339">
+        <vivo:totalAwardAmount>90741.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n28105">
+        <vivo:totalAwardAmount>47000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n75703">
+        <vivo:totalAwardAmount>25000</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11777">
+        <vivo:totalAwardAmount>21250.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n11779">
+        <vivo:totalAwardAmount>5000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n54553">
+        <vivo:totalAwardAmount>1500</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n236915">
+        <vivo:totalAwardAmount>34125.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n21767">
+        <vivo:totalAwardAmount>6285.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n49318">
+        <vivo:totalAwardAmount>12000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n31862">
+        <vivo:totalAwardAmount>99977.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n115345">
+        <vivo:totalAwardAmount>175000.00</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n43755">
+        <vivo:totalAwardAmount>476121</vivo:totalAwardAmount>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://vivo.ufl.edu/individual/n24494">
+        <vivo:totalAwardAmount>7000</vivo:totalAwardAmount>
+    </rdf:Description>
+
+</rdf:RDF>
+
